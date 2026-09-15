@@ -1,6 +1,6 @@
  # ikasu
 
-<h1 align="center">ache</h1>
+<h1 align="center">yo</h1>
 
 <div align="center">
 Python Backend Developer • Full-stack Development • Game Developer
